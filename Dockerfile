@@ -1,4 +1,4 @@
-FROM tianon/debian:wheezy
+FROM debian:wheezy
 
 MAINTAINER Darron Froese "darron@froese.org"
 
